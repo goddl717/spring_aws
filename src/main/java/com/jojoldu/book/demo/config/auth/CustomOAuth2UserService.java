@@ -1,5 +1,7 @@
 package com.jojoldu.book.demo.config.auth;
 
+import com.jojoldu.book.demo.config.auth.dto.OAuthAttributes;
+import com.jojoldu.book.demo.config.auth.dto.SessionUser;
 import com.jojoldu.book.demo.domain.user.User;
 import com.jojoldu.book.demo.domain.user.UserRepository;
 import lombok.RequiredArgsConstructor;
