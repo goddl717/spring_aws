@@ -10,6 +10,10 @@
 
 #진도 : 9/11(~183p)   (별로 안했다.)
 
+#진도 : 9/11(~211p)   (구글 로그인 + oauth + 네이버 로그인은 제외, 테스트에 oauth 적용된거 기반으로 작동하는거 부터 시작하면 )
+
+
+
 
 코드 참조 사이트 : https://github.com/jojoldu/freelec-springboot2-webservice
 
